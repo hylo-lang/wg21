@@ -1,0 +1,3 @@
+[submodule "paper-framework"]
+	path = paper-framework
+	url = https://github.com/mpark/wg21.git
