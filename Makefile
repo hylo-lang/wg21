@@ -1,1 +1,1 @@
-include wg21/Makefile
+include paper-framework/Makefile
